@@ -1,5 +1,13 @@
 {
   "files": {
+    "travel-details/.gitignore": [
+      {
+        "id": "ad64d24c-b2f9-487e-951b-83b8665614ce",
+        "line": 1,
+        "version": 2,
+        "index": 0
+      }
+    ],
     "travel-details/pages/posts/first-post.tsx": [
       {
         "id": "e3a6d28f-d823-4155-89f6-27a5796700c9",
