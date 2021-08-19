@@ -13,7 +13,7 @@ const Home: NextPage = () => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      //Code I am editing
+      {/* Code I am editing */}
       <main className={styles.main}>
         <h1 className={styles.title}>
           Read{' '}
