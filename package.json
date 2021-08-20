@@ -10,7 +10,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "next": "^11.1.0",
-    "React": "^17.0.2"
+    "React": "^17.0.2",
+    "gray-matter": "^4.0.3",
+    "next": "^11.1.0"
   }
 }
