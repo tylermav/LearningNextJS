@@ -1,0 +1,3 @@
+run="yarn dev"
+language="nodejs"
+onBoot="echo Booting up!"
