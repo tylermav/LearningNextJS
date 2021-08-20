@@ -11,4 +11,5 @@ Link to the tutorial I used: [nextjs](https://nextjs.org/learn/basics/create-nex
 1. When running on repl.it, once the program is booted, 'cd travel-details' in the shell
 2. Then 'yarn dev' in the shell
 
+###
 [![Run on Repl.it](https://repl.it/badge/github/tylermav/LearningNextJS)](https://repl.it/github/tylermav/LearningNextJS)
