@@ -7,7 +7,7 @@ At the current time all files were copied and pasted via the tutorial. Typescrip
 
 Link to the tutorial I used: [nextjs](https://nextjs.org/learn/basics/create-nextjs-app)
 
-#Instructions
+# Instructions
 1. When running on repl.it, once the program is booted, 'cd travel-details' in the shell
 2. Then 'yarn dev' in the shell
 
